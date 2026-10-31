@@ -1,2 +1,2 @@
 Demo for merge conflict
-Modified
+Modified 
